@@ -1,18 +1,18 @@
 {
-  "pages":[
-    "pages/index/index",
-    "pages/logs/logs"
-  ],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#3776b1",
-    "navigationBarTitleText": "littleGitHub",
-    "navigationBarTextStyle":"#fff",
-    "backgroundColor": "#ddd"
-  },
-  "networkTimeout": {
-    "request": 10000,
-    "downloadFile": 10000
-  },
-  "debug": true
+	"pages": [
+		"pages/index/index",
+		"pages/logs/logs"
+	],
+	"window": {
+		"backgroundTextStyle": "light",
+		"navigationBarBackgroundColor": "#3776b1",
+		"navigationBarTitleText": "littleGitHub",
+		"navigationBarTextStyle": "#fff",
+		"backgroundColor": "#ddd"
+	},
+	"networkTimeout": {
+		"request": 10000,
+		"downloadFile": 10000
+	},
+	"debug": true
 }
